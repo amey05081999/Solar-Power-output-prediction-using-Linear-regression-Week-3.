@@ -1,2 +1,2 @@
-# Week-1.
-Solar Power output prediction using Linear regression
+# Week-2.
+Solar Power output prediction using Linear regression 
